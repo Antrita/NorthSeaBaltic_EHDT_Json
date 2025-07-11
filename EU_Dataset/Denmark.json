@@ -1,0 +1,2090 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-10T13:41:19Z",
+    "timestamp_areas_base": "2025-07-10T08:27:53Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3533092958,
+  "lat": 57.0440664,
+  "lon": 9.9149515,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "16",
+    "capacity": "2",
+    "fee": "no",
+    "operator": "Aalborg Kongres & Kultur Center",
+    "parking:fee": "yes",
+    "voltage": "230"
+  }
+},
+{
+  "type": "node",
+  "id": 5627652858,
+  "lat": 56.7833177,
+  "lon": 9.6952119,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "50 kW",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "Clever",
+    "socket:chademo": "2",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 6756957218,
+  "lat": 55.5357359,
+  "lon": 9.7185111,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "12",
+    "charging_station:output": "175 kW",
+    "covered": "yes",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "Powered by E.ON Drive & Clever",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "2",
+    "socket:chademo:output": "75 kW",
+    "socket:type2_combo": "10",
+    "socket:type2_combo:output": "270 kW",
+    "website": "https://www.eon.dk/privat/strom-til-din-elbil/oversigt-ladepunkter-til-elbil.html"
+  }
+},
+{
+  "type": "node",
+  "id": 7759146596,
+  "lat": 55.9463664,
+  "lon": 8.4954159,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "fee": "yes",
+    "name": "Sperto Skjern (0212)",
+    "opening_hours": "24/7",
+    "operator": "Speto",
+    "ref": "DK*SPA*E100090;DK*SPA*E100091",
+    "voltage": "400",
+    "website": "https://emobility.community/app/#/app/station/9685c6f0-2346-478c-bcd2-50141c27d6f0"
+  }
+},
+{
+  "type": "node",
+  "id": 7798184018,
+  "lat": 55.5805325,
+  "lon": 9.7270055,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "6",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "E.ON",
+    "socket:type2": "6",
+    "socket:type2:output": "11 kW",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 7798184463,
+  "lat": 55.5673295,
+  "lon": 9.7212374,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "50 kW",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "Clever",
+    "socket:chademo": "1",
+    "socket:type2": "1",
+    "socket:type2_combo": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 8570098536,
+  "lat": 55.7108160,
+  "lon": 12.5735699,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "fee": "yes",
+    "motorcar": "yes",
+    "operator": "Clever",
+    "operator:wikidata": "Q114628418",
+    "socket:type2": "2",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 8570098537,
+  "lat": 55.7106675,
+  "lon": 12.5735722,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "fee": "yes",
+    "motorcar": "yes",
+    "operator": "Clever",
+    "operator:wikidata": "Q114628418",
+    "socket:type2": "2",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 8570098538,
+  "lat": 55.7107168,
+  "lon": 12.5735773,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "fee": "yes",
+    "motorcar": "yes",
+    "operator": "Clever",
+    "operator:wikidata": "Q114628418",
+    "socket:type2": "2",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 8570098539,
+  "lat": 55.7107729,
+  "lon": 12.5735759,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "fee": "yes",
+    "motorcar": "yes",
+    "operator": "Clever",
+    "operator:wikidata": "Q114628418",
+    "socket:type2": "2",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 8589471993,
+  "lat": 57.0203879,
+  "lon": 9.9675024,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:none": "yes",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "motorcar": "yes",
+    "name": "Circle K Aalborg Ø",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 9062010723,
+  "lat": 55.3078043,
+  "lon": 10.8095783,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2": "2",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 9105772628,
+  "lat": 55.3179736,
+  "lon": 10.8100098,
+  "tags": {
+    "amenity": "charging_station",
+    "operator": "E.ON",
+    "voltage": "230"
+  }
+},
+{
+  "type": "node",
+  "id": 9105772629,
+  "lat": 55.3179663,
+  "lon": 10.8099528,
+  "tags": {
+    "amenity": "charging_station",
+    "operator": "E.ON",
+    "voltage": "230"
+  }
+},
+{
+  "type": "node",
+  "id": 9105772630,
+  "lat": 55.3179591,
+  "lon": 10.8098917,
+  "tags": {
+    "amenity": "charging_station",
+    "operator": "E.ON",
+    "voltage": "230"
+  }
+},
+{
+  "type": "node",
+  "id": 9211990454,
+  "lat": 55.5549841,
+  "lon": 8.1264747,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "authentication:app": "yes",
+    "authentication:nfc": "yes",
+    "brand": "Clever",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "name": "Clever",
+    "opening_hours": "24/7",
+    "operator": "Clever",
+    "parking:fee": "no",
+    "ref": "190012.1",
+    "socket:type2": "1",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 9211990455,
+  "lat": 55.5549876,
+  "lon": 8.1264713,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "authentication:app": "yes",
+    "authentication:nfc": "yes",
+    "brand": "Clever",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "name": "Clever",
+    "opening_hours": "24/7",
+    "operator": "Clever",
+    "parking:fee": "no",
+    "ref": "190013.1",
+    "socket:type2": "1",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 9259253373,
+  "lat": 55.6922165,
+  "lon": 12.4629836,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K Rødovre",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "operator:wikidata": "Q3268010",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9456820097,
+  "lat": 56.1037342,
+  "lon": 10.1454225,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:none": "yes",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "motorcar": "yes",
+    "name": "Circle K Tranbjerg J",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 9706969834,
+  "lat": 56.1086472,
+  "lon": 8.9781367,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K Lind",
+    "opening_hours": "24/7",
+    "operator": "CIRCLE K",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9706969843,
+  "lat": 56.1086599,
+  "lon": 8.9782813,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K Lind",
+    "opening_hours": "24/7",
+    "operator": "CIRCLE K",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9709622847,
+  "lat": 57.0391414,
+  "lon": 9.9313595,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:none": "yes",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "motorcar": "yes",
+    "name": "Circle K Sønderbro",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 9709691635,
+  "lat": 56.1515574,
+  "lon": 10.0066857,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:none": "yes",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "motorcar": "yes",
+    "name": "Circle K Harlev J",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 9709795541,
+  "lat": 55.7227639,
+  "lon": 9.5705798,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:none": "yes",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "motorcar": "yes",
+    "name": "Circle K Vejle",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 9711953942,
+  "lat": 57.5880182,
+  "lon": 9.9581464,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "no",
+    "name": "Circle K Hirtshals",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "operator:wikidata": "Q3268010",
+    "payment:app": "yes",
+    "payment:apple_pay": "yes",
+    "payment:credit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "socket:chademo": "1",
+    "socket:chademo:current": "125",
+    "socket:chademo:output": "60 kW",
+    "socket:chademo:voltage": "500",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:current": "500",
+    "socket:type2_combo:output": "300 kW",
+    "socket:type2_combo:voltage": "1000"
+  }
+},
+{
+  "type": "node",
+  "id": 9712007101,
+  "lat": 54.8318499,
+  "lon": 9.3512217,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K Padborg",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "operator:wikidata": "Q3268010",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9718524364,
+  "lat": 55.6922212,
+  "lon": 12.4630823,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K Rødovre",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "operator:wikidata": "Q3268010",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9718525126,
+  "lat": 55.6685916,
+  "lon": 12.6059167,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K København S",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "operator:wikidata": "Q3268010",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9718525131,
+  "lat": 55.6685821,
+  "lon": 12.6060172,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K København S",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "operator:wikidata": "Q3268010",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9718934731,
+  "lat": 55.6454791,
+  "lon": 12.4603109,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K Hvidovre",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "operator:wikidata": "Q3268010",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9718934736,
+  "lat": 55.6455116,
+  "lon": 12.4603766,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K Hvidovre",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "operator:wikidata": "Q3268010",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9719007145,
+  "lat": 55.7339080,
+  "lon": 12.4767178,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K Søborg",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "operator:wikidata": "Q3268010",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9719007157,
+  "lat": 55.7455318,
+  "lon": 12.5562802,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K Hellerup",
+    "opening_hours": "24/7",
+    "operator": "CIRCLE K",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9719094568,
+  "lat": 55.8696854,
+  "lon": 12.3468610,
+  "tags": {
+    "amenity": "charging_station",
+    "branch": "Allerød",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Circle K Lillerød",
+    "opening_hours": "24/7",
+    "operator": "CIRCLE K",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 9723491152,
+  "lat": 55.7800693,
+  "lon": 8.2854838,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "amperage": "16",
+    "capacity": "2",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2": "2",
+    "socket:type2:output": "11 kW",
+    "voltage": "400",
+    "website": "https://www.ok.dk/privat/produkter/elbil-opladning/paa-farten"
+  }
+},
+{
+  "type": "node",
+  "id": 9740310587,
+  "lat": 55.9865617,
+  "lon": 8.4115406,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "name": "Clever - Hansen & Larsen",
+    "opening_hours": "24/7",
+    "operator": "Clever",
+    "socket:type2": "2",
+    "socket:type2:output": "22 kW",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 9741052306,
+  "lat": 56.0213299,
+  "lon": 8.3758065,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "fee": "yes",
+    "name": "Clever ved Baettr Lem A/S",
+    "opening_hours": "24/7",
+    "operator": "Clever",
+    "socket:type2": "2",
+    "socket:type2:output": "22 kW",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 9741052307,
+  "lat": 56.0213729,
+  "lon": 8.3758161,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "fee": "yes",
+    "name": "Clever ved Baettr Lem A/S",
+    "opening_hours": "24/7",
+    "operator": "Clever",
+    "socket:type2": "2",
+    "socket:type2:output": "22 kW",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 9741052308,
+  "lat": 56.0214159,
+  "lon": 8.3758258,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "fee": "yes",
+    "name": "Clever ved Baettr Lem A/S",
+    "opening_hours": "24/7",
+    "operator": "Clever",
+    "socket:type2": "2",
+    "socket:type2:output": "22 kW",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 9741052309,
+  "lat": 56.0214590,
+  "lon": 8.3758354,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "2",
+    "fee": "yes",
+    "name": "Clever ved Baettr Lem A/S",
+    "opening_hours": "24/7",
+    "operator": "Clever",
+    "socket:type2": "2",
+    "socket:type2:output": "22 kW",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 9776077741,
+  "lat": 55.4730676,
+  "lon": 8.4363325,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "300 kw",
+    "fee": "yes",
+    "name": "Circle K - Strandbygade",
+    "opening_hours": "24/7",
+    "socket:chademo": "1",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 9788832446,
+  "lat": 55.6372678,
+  "lon": 12.0821494,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "fee": "yes",
+    "level": "2",
+    "operator": "Clever",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 9879359957,
+  "lat": 56.1309569,
+  "lon": 9.0108447,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:none": "yes",
+    "capacity": "1",
+    "fee": "yes",
+    "socket:type2_cable": "1",
+    "socket:type2_cable:output": "3.3 kw",
+    "voltage": "230"
+  }
+},
+{
+  "type": "node",
+  "id": 9905086681,
+  "lat": 55.4743308,
+  "lon": 8.4584120,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "6",
+    "fee": "yes",
+    "fixme": "best guess location from clever map, survey",
+    "name": "Sydvestjysk Sygehus Indgang Øst Østergade",
+    "operator": "Clever",
+    "socket:type2": "6",
+    "voltage": "400",
+    "website": "https://ladekort.clever.dk/?location=12296"
+  }
+},
+{
+  "type": "node",
+  "id": 9905086687,
+  "lat": 55.4742118,
+  "lon": 8.4558142,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "6",
+    "fee": "yes",
+    "fixme": "best guess location from clever map, survey",
+    "name": "Sydvestjysk Sygehus Indgang Vest Svendsgade",
+    "operator": "Clever",
+    "socket:type2": "6",
+    "voltage": "400",
+    "website": "https://ladekort.clever.dk/?location=11849"
+  }
+},
+{
+  "type": "node",
+  "id": 9905086688,
+  "lat": 55.4730780,
+  "lon": 8.4590818,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "8",
+    "fee": "yes",
+    "name": "Valdemarsgade 3",
+    "operator": "Clever",
+    "socket:type2": "8",
+    "voltage": "400",
+    "website": "https://ladekort.clever.dk/?location=13056"
+  }
+},
+{
+  "type": "node",
+  "id": 9905086689,
+  "lat": 55.4720497,
+  "lon": 8.4576258,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "32",
+    "capacity": "10",
+    "fee": "yes",
+    "fixme": "best guess location from clever map, survey",
+    "name": "Sydvestjysk Sygehus Rolfsgade",
+    "operator": "Clever",
+    "socket:type2": "10",
+    "voltage": "400",
+    "website": "https://ladekort.clever.dk/?location=12297"
+  }
+},
+{
+  "type": "node",
+  "id": 10302243967,
+  "lat": 55.7260135,
+  "lon": 9.5812342,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "fixme": "estimated position",
+    "maxstay": "30 minutes",
+    "operator": "Norlys",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 10302243968,
+  "lat": 55.7259704,
+  "lon": 9.5811007,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "fixme": "estimated position",
+    "maxstay": "30 minutes",
+    "operator": "Norlys",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 10302243969,
+  "lat": 55.7259931,
+  "lon": 9.5811678,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "fixme": "estimated position",
+    "maxstay": "30 minutes",
+    "operator": "Norlys",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 10308820770,
+  "lat": 55.4138490,
+  "lon": 10.0557571,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "300",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "operator": "Allego",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "300 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 10308820771,
+  "lat": 55.4138026,
+  "lon": 10.0556822,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "300",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "operator": "Allego",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "300 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 10308820772,
+  "lat": 55.4138850,
+  "lon": 10.0557008,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "300",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "operator": "Allego",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "300 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 10735792134,
+  "lat": 55.4130976,
+  "lon": 10.0572424,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "OK",
+    "brand:wikidata": "Q12329785",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "payment:app": "yes",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "300 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 10961925174,
+  "lat": 55.7205791,
+  "lon": 8.3430288,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "OK",
+    "brand:wikidata": "Q12329785",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "fee": "yes",
+    "name": "DagliBrugsen - Outrup - Storegade",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 11008335995,
+  "lat": 55.8312596,
+  "lon": 10.5939937,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "OK",
+    "brand:wikidata": "Q12329785",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "fee": "yes",
+    "name": "SuperBrugsen - Samsø - Møllebakkevej",
+    "opening_hours": "24/7",
+    "operator": "OK",
+    "socket:type2_cable": "2",
+    "socket:type2_cable:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 11279990065,
+  "lat": 55.2744664,
+  "lon": 9.9084612,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "OK",
+    "brand:wikidata": "Q12329785",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "payment:app": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11368030529,
+  "lat": 55.4130788,
+  "lon": 10.0571252,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "OK",
+    "brand:wikidata": "Q12329785",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "payment:app": "yes",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "300 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 11595061861,
+  "lat": 55.2552650,
+  "lon": 10.6710859,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "OK",
+    "brand:wikidata": "Q12329785",
+    "capacity": "2",
+    "charging_station:output": "50 kW",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "payment:app": "yes",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 11694125899,
+  "lat": 57.5763380,
+  "lon": 9.9846704,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "capacity": "3",
+    "charging_station:output": "400 kW",
+    "covered": "no",
+    "fee": "yes",
+    "name": "Eon Drive",
+    "operator": "E.ON",
+    "operator:wikidata": "Q270223",
+    "payment:app": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11803313316,
+  "lat": 55.1333482,
+  "lon": 10.9197788,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "OK",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "opening_hours": "24/7",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 11922230534,
+  "lat": 56.7498525,
+  "lon": 8.4216944,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "OK",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "fee": "yes",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "payment:app": "yes",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12542402857,
+  "lat": 56.0144722,
+  "lon": 8.9937098,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "OK",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12919261725,
+  "lat": 55.5188158,
+  "lon": 8.4133715,
+  "tags": {
+    "amenity": "charging_station",
+    "charging_station:output": "200 kW",
+    "covered": "no",
+    "fee": "yes",
+    "network": "Allego",
+    "operator": "Allego",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 12919261726,
+  "lat": 55.5188470,
+  "lon": 8.4134037,
+  "tags": {
+    "amenity": "charging_station",
+    "charging_station:output": "200 kW",
+    "covered": "no",
+    "fee": "yes",
+    "network": "Allego",
+    "operator": "Allego",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 1057680659,
+  "nodes": [
+    9718578144,
+    9718578143,
+    9718578146,
+    9718578145,
+    9718578144
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "brand:wikidata": "Q3268010",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "maxstay": "1 hour",
+    "name": "Circle K Taastrup",
+    "opening_hours": "24/7",
+    "operator": "Circle K",
+    "operator:wikidata": "Q3268010",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:chademo:output": "60 kW",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "300 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1186545741,
+  "nodes": [
+    11020559291,
+    11020559292,
+    11020559293,
+    11020559294,
+    11020559291
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "name": "Shell Recharge",
+    "operator": "Shell Recharge Solutions",
+    "operator:wikidata": "Q105883058",
+    "socket:chademo": "1",
+    "socket:chademo:output": "60 kW",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "300 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1186550413,
+  "nodes": [
+    10726140634,
+    10933913988,
+    10933913985,
+    11020622355,
+    10726140634
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "500",
+    "branch": "Silkeborg Bredhøjvej",
+    "brand": "Shell",
+    "capacity": "2",
+    "charging_station:output": "300 kW",
+    "name": "Shell recharge",
+    "opening_hours": "24/7",
+    "operator": "Shell Recharge Solutions",
+    "operator:wikidata": "Q105883058",
+    "payment:app": "yes",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "300 kW",
+    "voltage": "1000"
+  }
+},
+{
+  "type": "way",
+  "id": 1303198250,
+  "nodes": [
+    11010765005,
+    12069231944,
+    12069231946,
+    12069231945,
+    11010765005
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "OK",
+    "brand:wikidata": "Q12329785",
+    "capacity": "2",
+    "charging_station:output": "75kW",
+    "fee": "yes",
+    "name": "SuperBrugsen - Hobro - Adelgade - OK",
+    "opening_hours": "24/7",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "payment:app": "yes",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1303292049,
+  "nodes": [
+    12070039647,
+    12070039648,
+    12070039649,
+    12070039650,
+    12070039647
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "OK",
+    "brand:wikidata": "Q12329785",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "name": "OK Balling, DagliBrugsen",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1307328663,
+  "nodes": [
+    12106840515,
+    12106840516,
+    12106840517,
+    12106840518,
+    12106840515
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "branch": "OK Kulhuse, Dagli'Brugsen",
+    "brand": "OK",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "opening_hours": "24/7",
+    "operator": "Dagli'Brugsen",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1307556388,
+  "nodes": [
+    1084057461,
+    12108756013,
+    12108756014,
+    12108776273,
+    1084057461
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "branch": "SuperBrugsen Jægerspris",
+    "brand": "OK",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "name": "OK Jægerspris, SuperBrugsen",
+    "opening_hours": "24/7",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1307890678,
+  "nodes": [
+    4850312684,
+    1106213686,
+    12111955657,
+    12111955658,
+    12845280178,
+    12111955659,
+    12845280180,
+    4850312684
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "branch": "Vandel",
+    "brand": "OK",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1308452635,
+  "nodes": [
+    12116980484,
+    12116980485,
+    12116980486,
+    2291892588,
+    12116980487,
+    12116980484
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "branch": "Skærbæk",
+    "brand": "OK",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1314003998,
+  "nodes": [
+    12162133992,
+    11815860079,
+    12162133973,
+    12162133993,
+    12162133994,
+    12162133995,
+    12162133996,
+    12162133997,
+    12162133998,
+    12162133992
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "branch": "Brande",
+    "brand": "Clever",
+    "capacity": "12",
+    "charging_station:output": "1800 kW",
+    "check_date": "2024-04-14",
+    "note": "færdig 2Q 2024",
+    "operator": "Clever",
+    "socket:type2_combo": "12",
+    "socket:type2_combo:output": "300 kW",
+    "website": "https://clever.dk/",
+    "wikipedia": "da:Clever"
+  }
+},
+{
+  "type": "way",
+  "id": 1350478632,
+  "nodes": [
+    12493417057,
+    12978276998,
+    12493417058,
+    12493417059,
+    12493417060,
+    12978276997,
+    12978276994,
+    12493417057
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1359777703,
+  "nodes": [
+    2218456239,
+    12586913172,
+    11961125375,
+    12586913173,
+    2218456239
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "OK",
+    "capacity": "4",
+    "charging_station:output": "150 kW",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2_combo": "4",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1387728097,
+  "nodes": [
+    12846372541,
+    12846372542,
+    12846372538,
+    12846372539,
+    12846372537,
+    12846372534,
+    12846372535,
+    12846372541
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "branch": "SuperBrugsen, Vestergade 11, Vorbasse",
+    "brand": "OK",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "75 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1393692898,
+  "nodes": [
+    7798961664,
+    12900684266,
+    12900684265,
+    12900684262,
+    12900684263,
+    12900684257,
+    12900684258,
+    7798961664
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "4",
+    "charging_station:output": "300 kW",
+    "fee": "yes",
+    "name": "Powered by E.ON Drive & Clever",
+    "opening_hours": "24/7",
+    "operator": "E.ON",
+    "operator:wikidata": "Q270223",
+    "socket:chademo": "2",
+    "socket:chademo:output": "50 kW",
+    "socket:type2_combo": "4",
+    "socket:type2_combo:output": "300 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1409824116,
+  "nodes": [
+    12955265199,
+    12954664458,
+    12954664460,
+    12954664461,
+    12954664462,
+    9308293787,
+    12954664457,
+    12955265199
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "OK",
+    "capacity": "2",
+    "charging_station:output": "75 kW",
+    "fee": "yes",
+    "operator": "OK",
+    "operator:wikidata": "Q12329785",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 12493417057,
+  "lat": 56.0177420,
+  "lon": 8.1237266
+},
+{
+  "type": "node",
+  "id": 12493417058,
+  "lat": 56.0177108,
+  "lon": 8.1237539
+},
+{
+  "type": "node",
+  "id": 12493417059,
+  "lat": 56.0177676,
+  "lon": 8.1239623
+},
+{
+  "type": "node",
+  "id": 12493417060,
+  "lat": 56.0177989,
+  "lon": 8.1239351
+},
+{
+  "type": "node",
+  "id": 12978276994,
+  "lat": 56.0177681,
+  "lon": 8.1238225
+},
+{
+  "type": "node",
+  "id": 12978276997,
+  "lat": 56.0177943,
+  "lon": 8.1239182
+},
+{
+  "type": "node",
+  "id": 12978276998,
+  "lat": 56.0177193,
+  "lon": 8.1237464
+},
+{
+  "type": "node",
+  "id": 2291892588,
+  "lat": 55.1591342,
+  "lon": 8.7617472
+},
+{
+  "type": "node",
+  "id": 12116980484,
+  "lat": 55.1591706,
+  "lon": 8.7618407
+},
+{
+  "type": "node",
+  "id": 12116980485,
+  "lat": 55.1591823,
+  "lon": 8.7617521
+},
+{
+  "type": "node",
+  "id": 12116980486,
+  "lat": 55.1591360,
+  "lon": 8.7617335
+},
+{
+  "type": "node",
+  "id": 12116980487,
+  "lat": 55.1591244,
+  "lon": 8.7618220
+},
+{
+  "type": "node",
+  "id": 2218456239,
+  "lat": 55.6238848,
+  "lon": 8.4823702
+},
+{
+  "type": "node",
+  "id": 11961125375,
+  "lat": 55.6238463,
+  "lon": 8.4822291
+},
+{
+  "type": "node",
+  "id": 12586913172,
+  "lat": 55.6238219,
+  "lon": 8.4822865
+},
+{
+  "type": "node",
+  "id": 12586913173,
+  "lat": 55.6239091,
+  "lon": 8.4823128
+},
+{
+  "type": "node",
+  "id": 12846372534,
+  "lat": 55.6307361,
+  "lon": 9.0777652
+},
+{
+  "type": "node",
+  "id": 12846372535,
+  "lat": 55.6307743,
+  "lon": 9.0778071
+},
+{
+  "type": "node",
+  "id": 12846372537,
+  "lat": 55.6307235,
+  "lon": 9.0778014
+},
+{
+  "type": "node",
+  "id": 12846372538,
+  "lat": 55.6307501,
+  "lon": 9.0778759
+},
+{
+  "type": "node",
+  "id": 12846372539,
+  "lat": 55.6307120,
+  "lon": 9.0778341
+},
+{
+  "type": "node",
+  "id": 12846372541,
+  "lat": 55.6307804,
+  "lon": 9.0778138
+},
+{
+  "type": "node",
+  "id": 12846372542,
+  "lat": 55.6307563,
+  "lon": 9.0778827
+},
+{
+  "type": "node",
+  "id": 1106213686,
+  "lat": 55.7128606,
+  "lon": 9.2184656
+},
+{
+  "type": "node",
+  "id": 4850312684,
+  "lat": 55.7129016,
+  "lon": 9.2184936
+},
+{
+  "type": "node",
+  "id": 12111955657,
+  "lat": 55.7128485,
+  "lon": 9.2184574
+},
+{
+  "type": "node",
+  "id": 12111955658,
+  "lat": 55.7128676,
+  "lon": 9.2183692
+},
+{
+  "type": "node",
+  "id": 12111955659,
+  "lat": 55.7129207,
+  "lon": 9.2184054
+},
+{
+  "type": "node",
+  "id": 12845280178,
+  "lat": 55.7128803,
+  "lon": 9.2183779
+},
+{
+  "type": "node",
+  "id": 12845280180,
+  "lat": 55.7129114,
+  "lon": 9.2184486
+},
+{
+  "type": "node",
+  "id": 11815860079,
+  "lat": 55.9612471,
+  "lon": 9.1056580
+},
+{
+  "type": "node",
+  "id": 12162133973,
+  "lat": 55.9612784,
+  "lon": 9.1066999
+},
+{
+  "type": "node",
+  "id": 12162133992,
+  "lat": 55.9609881,
+  "lon": 9.1054968
+},
+{
+  "type": "node",
+  "id": 12162133993,
+  "lat": 55.9611176,
+  "lon": 9.1066645
+},
+{
+  "type": "node",
+  "id": 12162133994,
+  "lat": 55.9609534,
+  "lon": 9.1065736
+},
+{
+  "type": "node",
+  "id": 12162133995,
+  "lat": 55.9609195,
+  "lon": 9.1065186
+},
+{
+  "type": "node",
+  "id": 12162133996,
+  "lat": 55.9609079,
+  "lon": 9.1064442
+},
+{
+  "type": "node",
+  "id": 12162133997,
+  "lat": 55.9609087,
+  "lon": 9.1059512
+},
+{
+  "type": "node",
+  "id": 12162133998,
+  "lat": 55.9609218,
+  "lon": 9.1058466
+},
+{
+  "type": "node",
+  "id": 12070039647,
+  "lat": 56.6130697,
+  "lon": 8.8809782
+},
+{
+  "type": "node",
+  "id": 12070039648,
+  "lat": 56.6130207,
+  "lon": 8.8809248
+},
+{
+  "type": "node",
+  "id": 12070039649,
+  "lat": 56.6129994,
+  "lon": 8.8809944
+},
+{
+  "type": "node",
+  "id": 12070039650,
+  "lat": 56.6130488,
+  "lon": 8.8810449
+},
+{
+  "type": "node",
+  "id": 11020559291,
+  "lat": 56.2007495,
+  "lon": 9.5174946
+},
+{
+  "type": "node",
+  "id": 11020559292,
+  "lat": 56.2007029,
+  "lon": 9.5174419
+},
+{
+  "type": "node",
+  "id": 11020559293,
+  "lat": 56.2006680,
+  "lon": 9.5175417
+},
+{
+  "type": "node",
+  "id": 11020559294,
+  "lat": 56.2007146,
+  "lon": 9.5175944
+},
+{
+  "type": "node",
+  "id": 10726140634,
+  "lat": 56.1867275,
+  "lon": 9.5499170
+},
+{
+  "type": "node",
+  "id": 10933913985,
+  "lat": 56.1866684,
+  "lon": 9.5500309
+},
+{
+  "type": "node",
+  "id": 10933913988,
+  "lat": 56.1867289,
+  "lon": 9.5500288
+},
+{
+  "type": "node",
+  "id": 11020622355,
+  "lat": 56.1866692,
+  "lon": 9.5499195
+},
+{
+  "type": "node",
+  "id": 9718578143,
+  "lat": 55.6561083,
+  "lon": 12.3079426
+},
+{
+  "type": "node",
+  "id": 9718578144,
+  "lat": 55.6561604,
+  "lon": 12.3079903
+},
+{
+  "type": "node",
+  "id": 9718578145,
+  "lat": 55.6562122,
+  "lon": 12.3078123
+},
+{
+  "type": "node",
+  "id": 9718578146,
+  "lat": 55.6561601,
+  "lon": 12.3077646
+},
+{
+  "type": "node",
+  "id": 12106840515,
+  "lat": 55.9267152,
+  "lon": 11.9155950
+},
+{
+  "type": "node",
+  "id": 12106840516,
+  "lat": 55.9266723,
+  "lon": 11.9155933
+},
+{
+  "type": "node",
+  "id": 12106840517,
+  "lat": 55.9266735,
+  "lon": 11.9155038
+},
+{
+  "type": "node",
+  "id": 12106840518,
+  "lat": 55.9267163,
+  "lon": 11.9155055
+},
+{
+  "type": "node",
+  "id": 1084057461,
+  "lat": 55.8500030,
+  "lon": 11.9862298
+},
+{
+  "type": "node",
+  "id": 12108756013,
+  "lat": 55.8500112,
+  "lon": 11.9863229
+},
+{
+  "type": "node",
+  "id": 12108756014,
+  "lat": 55.8500574,
+  "lon": 11.9863101
+},
+{
+  "type": "node",
+  "id": 12108776273,
+  "lat": 55.8500493,
+  "lon": 11.9862170
+},
+{
+  "type": "node",
+  "id": 9308293787,
+  "lat": 56.8827636,
+  "lon": 8.6260010
+},
+{
+  "type": "node",
+  "id": 12954664457,
+  "lat": 56.8827638,
+  "lon": 8.6260103
+},
+{
+  "type": "node",
+  "id": 12954664458,
+  "lat": 56.8827399,
+  "lon": 8.6261020
+},
+{
+  "type": "node",
+  "id": 12954664460,
+  "lat": 56.8827104,
+  "lon": 8.6261045
+},
+{
+  "type": "node",
+  "id": 12954664461,
+  "lat": 56.8827082,
+  "lon": 8.6260146
+},
+{
+  "type": "node",
+  "id": 12954664462,
+  "lat": 56.8827080,
+  "lon": 8.6260056
+},
+{
+  "type": "node",
+  "id": 12955265199,
+  "lat": 56.8827660,
+  "lon": 8.6260998
+},
+{
+  "type": "node",
+  "id": 11010765005,
+  "lat": 56.6395615,
+  "lon": 9.7917877
+},
+{
+  "type": "node",
+  "id": 12069231944,
+  "lat": 56.6395076,
+  "lon": 9.7917821
+},
+{
+  "type": "node",
+  "id": 12069231945,
+  "lat": 56.6395592,
+  "lon": 9.7918717
+},
+{
+  "type": "node",
+  "id": 12069231946,
+  "lat": 56.6395053,
+  "lon": 9.7918657
+},
+{
+  "type": "node",
+  "id": 7798961664,
+  "lat": 56.7839636,
+  "lon": 9.6949418
+},
+{
+  "type": "node",
+  "id": 12900684257,
+  "lat": 56.7840176,
+  "lon": 9.6949299
+},
+{
+  "type": "node",
+  "id": 12900684258,
+  "lat": 56.7840108,
+  "lon": 9.6949694
+},
+{
+  "type": "node",
+  "id": 12900684262,
+  "lat": 56.7840318,
+  "lon": 9.6948477
+},
+{
+  "type": "node",
+  "id": 12900684263,
+  "lat": 56.7840248,
+  "lon": 9.6948881
+},
+{
+  "type": "node",
+  "id": 12900684265,
+  "lat": 56.7840388,
+  "lon": 9.6948075
+},
+{
+  "type": "node",
+  "id": 12900684266,
+  "lat": 56.7839915,
+  "lon": 9.6947805
+}
+
+  ]
+}
