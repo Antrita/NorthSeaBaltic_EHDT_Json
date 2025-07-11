@@ -1,0 +1,680 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-11T02:51:33Z",
+    "timestamp_areas_base": "2025-07-11T00:56:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5568251178,
+  "lat": 50.0686948,
+  "lon": 19.9490437,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "authentication:none": "no",
+    "bus": "yes",
+    "capacity": "1",
+    "covered": "no",
+    "description": "charging port for busses",
+    "description:pl": "ładowarka autobusów elektrycznych",
+    "fee": "no",
+    "hgv": "no",
+    "level": "-1",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 6088293446,
+  "lat": 50.1713168,
+  "lon": 19.3156704,
+  "tags": {
+    "amenity": "charging_station",
+    "bus": "yes",
+    "capacity": "1",
+    "motorcar": "no",
+    "operator": "PKM Jaworzno"
+  }
+},
+{
+  "type": "node",
+  "id": 7146453045,
+  "lat": 54.1258737,
+  "lon": 15.2426978,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "yes",
+    "fee": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "scooter": "no",
+    "truck": "no",
+    "voltage": "230"
+  }
+},
+{
+  "type": "node",
+  "id": 7685019615,
+  "lat": 53.9986533,
+  "lon": 14.7019615,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "no",
+    "boat": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "scooter": "no",
+    "truck": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7685019619,
+  "lat": 53.9985189,
+  "lon": 14.7018606,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "no",
+    "boat": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "scooter": "no",
+    "truck": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7685019622,
+  "lat": 53.9985347,
+  "lon": 14.7020051,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "no",
+    "boat": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "scooter": "no",
+    "truck": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7685019624,
+  "lat": 53.9986402,
+  "lon": 14.7018259,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "no",
+    "boat": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "scooter": "no",
+    "truck": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8998620889,
+  "lat": 50.3128021,
+  "lon": 16.8384158,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "bicycle": "yes",
+    "brand": "MDM Electronic",
+    "capacity": "2",
+    "motorcar": "no",
+    "operator": "Jakub Kosmalski",
+    "scooter": "yes",
+    "source": "survey;local knowledge;streetlevel imagery",
+    "truck": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9591009988,
+  "lat": 52.4168327,
+  "lon": 16.9387069,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "bus": "yes",
+    "capacity": "3",
+    "motorcar": "no",
+    "operator": "MPK",
+    "source": "Geopoz: Ortofotomapa 2021"
+  }
+},
+{
+  "type": "node",
+  "id": 10043387478,
+  "lat": 52.1629897,
+  "lon": 20.8200510,
+  "tags": {
+    "amenity": "charging_station",
+    "bus": "yes",
+    "capacity": "2",
+    "colour": "green",
+    "description": "Eko Energetyka – Smart Energy Systems",
+    "motorcar": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11023548575,
+  "lat": 54.0004253,
+  "lon": 14.6770780,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "scooter": "no",
+    "truck": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11033967100,
+  "lat": 51.4311280,
+  "lon": 20.9286914,
+  "tags": {
+    "amenity": "charging_station",
+    "motorcar": "no",
+    "operator": "Gmina Zakrzew&Enika"
+  }
+},
+{
+  "type": "node",
+  "id": 11033968564,
+  "lat": 51.4107800,
+  "lon": 21.1002721,
+  "tags": {
+    "amenity": "charging_station",
+    "motorcar": "no",
+    "operator": "Gmina Zakrzew&Enika"
+  }
+},
+{
+  "type": "node",
+  "id": 11033990418,
+  "lat": 51.4505832,
+  "lon": 20.9587502,
+  "tags": {
+    "amenity": "charging_station",
+    "motorcar": "no",
+    "operator": "Gmina Zakrzew&Enika"
+  }
+},
+{
+  "type": "node",
+  "id": 11033990419,
+  "lat": 51.4428808,
+  "lon": 20.9996798,
+  "tags": {
+    "amenity": "charging_station",
+    "motorcar": "no",
+    "operator": "Gmina Zakrzew&Enika"
+  }
+},
+{
+  "type": "node",
+  "id": 11056291898,
+  "lat": 49.5434625,
+  "lon": 20.1185542,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "yes",
+    "capacity": "4",
+    "motorcar": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11074787018,
+  "lat": 49.7782069,
+  "lon": 19.1268411,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "designated",
+    "capacity": "8",
+    "covered": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "parking:fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11099641278,
+  "lat": 51.4559666,
+  "lon": 21.0772761,
+  "tags": {
+    "amenity": "charging_station",
+    "motorcar": "no",
+    "operator": "Gmina Zakrzew&Enika"
+  }
+},
+{
+  "type": "node",
+  "id": 11105852029,
+  "lat": 49.7766000,
+  "lon": 19.1303891,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "designated",
+    "capacity": "6",
+    "covered": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "parking:fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11202478929,
+  "lat": 52.2177920,
+  "lon": 21.0144844,
+  "tags": {
+    "access": "permissive",
+    "amenity": "charging_station",
+    "bicycle": "yes",
+    "capacity": "10",
+    "check_date": "2023-10-07",
+    "covered": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "small_electric_vehicle": "yes",
+    "truck": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11252532060,
+  "lat": 50.0045179,
+  "lon": 19.9593993,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 11252532061,
+  "lat": 50.0044579,
+  "lon": 19.9598801,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 11980296371,
+  "lat": 51.1036859,
+  "lon": 17.0328236,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "yes",
+    "capacity": "10",
+    "check_date": "2024-08-31",
+    "covered": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "scooter": "yes",
+    "small_electric_vehicle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12037533060,
+  "lat": 54.4452572,
+  "lon": 18.5712307,
+  "tags": {
+    "access": "no",
+    "amenity": "charging_station",
+    "bicycle": "designated",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "socket:schuko": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 12058679478,
+  "lat": 53.1225716,
+  "lon": 23.1794043,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "yes",
+    "fee": "no",
+    "motorcar": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12102476789,
+  "lat": 54.2270698,
+  "lon": 16.2912944,
+  "tags": {
+    "amenity": "charging_station",
+    "fee": "no",
+    "motorcar": "no",
+    "motorcycle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12117497465,
+  "lat": 50.2776815,
+  "lon": 19.1343583,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "hgv": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12117497466,
+  "lat": 50.2781091,
+  "lon": 19.1346507,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "hgv": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12321143844,
+  "lat": 51.1253065,
+  "lon": 16.9770160,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:app": "yes",
+    "authentication:none": "no",
+    "check_date": "2024-11-07",
+    "covered": "no",
+    "fee": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "opening_hours": "24/7",
+    "operator": "Globalworth",
+    "small_electric_vehicle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12442169112,
+  "lat": 50.4458892,
+  "lon": 18.8599569,
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "yes",
+    "capacity": "4",
+    "fee": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "opening_hours": "24/7",
+    "scooter": "no",
+    "socket": "typee",
+    "voltage": "230"
+  }
+},
+{
+  "type": "node",
+  "id": 12540041576,
+  "lat": 49.9363443,
+  "lon": 19.0132168,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "authentication:app": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "name": "Ładowarka Pantografowa Komunikacji Miejskiej",
+    "network": "PKM Czechowice-Dziedzice",
+    "operator": "PKM Czechowice-Dziedzice",
+    "parking:fee": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12596189184,
+  "lat": 50.1931837,
+  "lon": 19.2850581,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "brand": "Medcom",
+    "capacity": "1",
+    "description": "Stacja ładowania ebusów",
+    "operator": "PKM Jaworzno",
+    "truck": "yes",
+    "voltage": "180kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12596189185,
+  "lat": 50.1929701,
+  "lon": 19.2842163,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "brand": "Medcom",
+    "capacity": "1",
+    "description": "Stacja ładowania ebusów",
+    "operator": "PKM Jaworzno",
+    "truck": "yes",
+    "voltage": "180kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12596189186,
+  "lat": 50.1931010,
+  "lon": 19.2847826,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "brand": "Medcom",
+    "capacity": "1",
+    "description": "Stacja ładowania ebusów",
+    "operator": "PKM Jaworzno",
+    "truck": "yes",
+    "voltage": "180kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12596189187,
+  "lat": 50.1931010,
+  "lon": 19.2848088,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "brand": "Medcom",
+    "capacity": "1",
+    "description": "Stacja ładowania ebusów",
+    "operator": "PKM Jaworzno",
+    "truck": "yes",
+    "voltage": "180kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12644062534,
+  "lat": 51.4108909,
+  "lon": 21.1003625,
+  "tags": {
+    "amenity": "charging_station",
+    "motorcar": "no",
+    "operator": "Gmina Zakrzew&Enika"
+  }
+},
+{
+  "type": "node",
+  "id": 12857584874,
+  "lat": 50.0046460,
+  "lon": 19.9598613,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 12857584875,
+  "lat": 50.0047094,
+  "lon": 19.9593788,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 12857585706,
+  "lat": 50.0062345,
+  "lon": 20.0111948,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 12857585887,
+  "lat": 50.0868645,
+  "lon": 19.9088018,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 12857585888,
+  "lat": 50.0866642,
+  "lon": 19.9087572,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 12857585889,
+  "lat": 50.0864364,
+  "lon": 19.9089732,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "covered": "no",
+    "fee": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 12883986621,
+  "lat": 50.0689905,
+  "lon": 19.9452405,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "authentication:none": "no",
+    "capacity": "1",
+    "covered": "no",
+    "description": "charging port for busses",
+    "description:pl": "ładowarka autobusów elektrycznych",
+    "fee": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 12883986622,
+  "lat": 50.0684353,
+  "lon": 19.9453220,
+  "tags": {
+    "access": "private",
+    "amenity": "charging_station",
+    "authentication:none": "no",
+    "capacity": "1",
+    "covered": "no",
+    "description": "charging port for busses",
+    "description:pl": "ładowarka autobusów elektrycznych",
+    "fee": "no",
+    "hgv": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "operator": "MPK Kraków"
+  }
+}
+
+  ]
+}

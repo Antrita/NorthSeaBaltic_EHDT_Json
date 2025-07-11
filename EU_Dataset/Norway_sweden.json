@@ -1,0 +1,411 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-10T06:39:38Z",
+    "timestamp_areas_base": "2025-07-09T01:47:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1770690392,
+  "lat": 59.9101215,
+  "lon": 10.7207925,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "capacity": "12",
+    "hgv": "yes",
+    "name": "Filipstad p-plass",
+    "opening_hours": "24/7",
+    "operator": "Oslo kommune",
+    "parking:fee": "no",
+    "ref:nobil": "338",
+    "socket:type2": "12",
+    "socket:type2:output": "7.4 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 4329734656,
+  "lat": 63.8109405,
+  "lon": 20.3267693,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "bicycle": "no",
+    "capacity": "3",
+    "covered": "no",
+    "fee": "yes",
+    "motorcar": "yes",
+    "name": "OKQ8 Carslid",
+    "operator": "Umeå Energi",
+    "parking:fee": "no",
+    "ref:nobil": "3480",
+    "scooter": "no",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "22 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW",
+    "truck": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5181333008,
+  "lat": 57.7476566,
+  "lon": 11.9955656,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Mer",
+    "brand:wikidata": "Q100821564",
+    "capacity": "2",
+    "description": "Mer Preem Hisings Backa",
+    "opening_hours": "24/7",
+    "operator": "Preem",
+    "parking:fee": "no",
+    "ref:nobil": "3315",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW",
+    "truck": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6018872141,
+  "lat": 59.9090523,
+  "lon": 10.7401693,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "capacity": "6",
+    "hgv": "yes",
+    "name": "Revierstredet",
+    "opening_hours": "24/7",
+    "operator": "Oslo kommune",
+    "parking:fee": "no",
+    "ref:nobil": "2638",
+    "socket:type2": "6",
+    "socket:type2:output": "3.6 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 6018875309,
+  "lat": 59.9074035,
+  "lon": 10.7439263,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "capacity": "6",
+    "hgv": "yes",
+    "name": "Myntgata",
+    "opening_hours": "24/7",
+    "operator": "Oslo kommune",
+    "parking:fee": "no",
+    "ref:nobil": "1885",
+    "socket:type2": "6",
+    "socket:type2:output": "3.6 kW",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6047204621,
+  "lat": 60.8789600,
+  "lon": 6.8429600,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Eviny",
+    "bus": "yes",
+    "capacity": "18",
+    "hgv": "yes",
+    "name": "Eviny Joker Gudvangen",
+    "opening_hours": "24/7",
+    "parking:fee": "no",
+    "ref:nobil": "20264",
+    "ref:recharge": "673",
+    "socket:chademo": "2",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "3",
+    "socket:type2:output": "22 kW",
+    "socket:type2_combo": "15",
+    "socket:type2_combo:output": "500 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 10742041140,
+  "lat": 59.3017900,
+  "lon": 14.1291700,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "capacity": "2",
+    "hgv": "yes",
+    "name": "Lecab Lastbilar",
+    "operator": "Lecab Lastbilar AB",
+    "parking:fee": "no",
+    "ref:nobil": "12112",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "100 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12146726308,
+  "lat": 58.3724282,
+  "lon": 15.2959402,
+  "tags": {
+    "amenity": "charging_station",
+    "fee": "yes",
+    "hgv": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "socket:type2_combo": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 12459250234,
+  "lat": 58.2319054,
+  "lon": 14.6774802,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "8",
+    "covered": "yes",
+    "fee": "yes",
+    "hgv": "yes",
+    "name": "Milence",
+    "socket:type2_combo": "8",
+    "socket:type2_combo:output": "400 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12823927904,
+  "lat": 61.5916880,
+  "lon": 9.7237640,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Circle K",
+    "bus": "yes",
+    "capacity": "4",
+    "hgv": "yes",
+    "name": "Circle K E6 Vinstra Trucks",
+    "parking:fee": "no",
+    "ref:nobil": "36609",
+    "socket:type2_combo": "4",
+    "socket:type2_combo:output": "400 kW"
+  }
+},
+{
+  "type": "way",
+  "id": 4066778,
+  "nodes": [
+    1671059489,
+    478719202,
+    1671071886,
+    1671071943,
+    1671071899,
+    1671071890,
+    1671071909,
+    1671071934,
+    1671071962,
+    1671071902,
+    1671071906,
+    1671071881,
+    1671071938,
+    1671071954,
+    1671071959,
+    1671071950,
+    1671071878,
+    1671071872,
+    1671071894,
+    1671071854,
+    15408089,
+    15408183,
+    15408182,
+    15408180
+  ],
+  "tags": {
+    "amenity": "charging_station",
+    "bicycle": "yes",
+    "duration": "0:20",
+    "ferry": "primary",
+    "foot": "yes",
+    "hgv": "yes",
+    "int_ref": "E 47;E 55",
+    "interval": "00:15",
+    "motor_vehicle": "yes",
+    "name": "Helsingør - Helsingborg",
+    "operator": "Öresundslinjen",
+    "reservation": "yes",
+    "route": "ferry",
+    "seamark:ferry_route:category": "free",
+    "seamark:type": "ferry_route",
+    "toll": "yes",
+    "vehicle": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q10513062",
+    "wikipedia": "sv:HH-leden"
+  }
+},
+{
+  "type": "node",
+  "id": 478719202,
+  "lat": 56.0333727,
+  "lon": 12.6196764
+},
+{
+  "type": "node",
+  "id": 1671059489,
+  "lat": 56.0329460,
+  "lon": 12.6160047
+},
+{
+  "type": "node",
+  "id": 1671071886,
+  "lat": 56.0336308,
+  "lon": 12.6215007
+},
+{
+  "type": "node",
+  "id": 1671071899,
+  "lat": 56.0357253,
+  "lon": 12.6319455
+},
+{
+  "type": "node",
+  "id": 1671071943,
+  "lat": 56.0352347,
+  "lon": 12.6290981
+},
+{
+  "type": "node",
+  "id": 1671071890,
+  "lat": 56.0363036,
+  "lon": 12.6360530
+},
+{
+  "type": "node",
+  "id": 1671071909,
+  "lat": 56.0365493,
+  "lon": 12.6394203
+},
+{
+  "type": "node",
+  "id": 1671071902,
+  "lat": 56.0361134,
+  "lon": 12.6479266
+},
+{
+  "type": "node",
+  "id": 1671071962,
+  "lat": 56.0363728,
+  "lon": 12.6460553
+},
+{
+  "type": "node",
+  "id": 1671071906,
+  "lat": 56.0352620,
+  "lon": 12.6521726
+},
+{
+  "type": "node",
+  "id": 1671071881,
+  "lat": 56.0342736,
+  "lon": 12.6563096
+},
+{
+  "type": "node",
+  "id": 1671071938,
+  "lat": 56.0338296,
+  "lon": 12.6585718
+},
+{
+  "type": "node",
+  "id": 1671071878,
+  "lat": 56.0329413,
+  "lon": 12.6680732
+},
+{
+  "type": "node",
+  "id": 1671071950,
+  "lat": 56.0327175,
+  "lon": 12.6662995
+},
+{
+  "type": "node",
+  "id": 1671071954,
+  "lat": 56.0331580,
+  "lon": 12.6617599
+},
+{
+  "type": "node",
+  "id": 1671071959,
+  "lat": 56.0328089,
+  "lon": 12.6642154
+},
+{
+  "type": "node",
+  "id": 1671071872,
+  "lat": 56.0336290,
+  "lon": 12.6703518
+},
+{
+  "type": "node",
+  "id": 1671071894,
+  "lat": 56.0350633,
+  "lon": 12.6740725
+},
+{
+  "type": "node",
+  "id": 1671071934,
+  "lat": 56.0365895,
+  "lon": 12.6434007
+},
+{
+  "type": "node",
+  "id": 1671071854,
+  "lat": 56.0371212,
+  "lon": 12.6783949
+},
+{
+  "type": "node",
+  "id": 15408089,
+  "lat": 56.0416760,
+  "lon": 12.6866617
+},
+{
+  "type": "node",
+  "id": 15408182,
+  "lat": 56.0427547,
+  "lon": 12.6889362
+},
+{
+  "type": "node",
+  "id": 15408183,
+  "lat": 56.0422753,
+  "lon": 12.6878633
+},
+{
+  "type": "node",
+  "id": 15408180,
+  "lat": 56.0433107,
+  "lon": 12.6915204
+}
+
+  ]
+}
