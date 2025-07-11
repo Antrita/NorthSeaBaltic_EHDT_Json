@@ -1,0 +1,1898 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-10T05:43:06Z",
+    "timestamp_areas_base": "2025-07-09T01:47:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1979357302,
+  "lat": 54.7250395,
+  "lon": 25.3422753,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:app": "yes",
+    "authentication:nfc": "yes",
+    "fee": "yes",
+    "name": "IKI PC, Saulėtekis",
+    "opening_hours": "24/7",
+    "operator": "Ignitis ON",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 3355493943,
+  "lat": 54.6885086,
+  "lon": 25.2781840,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "no",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 3685431627,
+  "lat": 54.7878444,
+  "lon": 24.7034507,
+  "tags": {
+    "amenity": "charging_station",
+    "name": "Abromiškės",
+    "opening_hours": "24/7",
+    "socket:chademo": "2",
+    "socket:chademo:output": "50kW",
+    "socket:type2_combo": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 4952380331,
+  "lat": 54.7728796,
+  "lon": 24.8175385,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "50 kW",
+    "fee": "no",
+    "socket:chademo": "yes",
+    "socket:type2": "yes",
+    "socket:type2_combo": "yes",
+    "source": "http://elektrodegalines.lt/ikrovimo-vietos-0/elektrenai/greitojo-ikrovimo-stotele-vievyje-50kw.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4952439996,
+  "lat": 55.9397570,
+  "lon": 23.3256035,
+  "tags": {
+    "amenity": "charging_station",
+    "charging_station:output": "50 kW",
+    "socket:chademo": "yes",
+    "socket:type2": "yes",
+    "socket:type2_combo": "yes",
+    "source": "http://elektrodegalines.lt/ikrovimo-vietos-0/siauliai/ikrovimo-stotele-siauliuose-lidl-50kw.html"
+  }
+},
+{
+  "type": "node",
+  "id": 5506471003,
+  "lat": 58.4714498,
+  "lon": 26.3597212,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:app": "yes",
+    "authentication:membership_card": "yes",
+    "authentication:short_message": "yes",
+    "authentication:short_message:number": "+372 5559 5559",
+    "capacity": "2",
+    "motorcar": "yes",
+    "name": "Alexela Laeva",
+    "operator": "Elmo",
+    "ref": "78134",
+    "socket:chademo": "1",
+    "socket:chademo:current": "120A",
+    "socket:chademo:output": "50kW",
+    "socket:type2": "1",
+    "socket:type2:current": "32A",
+    "socket:type2:output": "22kW"
+  }
+},
+{
+  "type": "node",
+  "id": 5568851734,
+  "lat": 55.7334541,
+  "lon": 21.3827364,
+  "tags": {
+    "amenity": "charging_station",
+    "description": "Free state-owned ABB fast charger",
+    "name": "Kilena Fast Charger",
+    "operator": "LAKD",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50000",
+    "socket:type2": "1",
+    "socket:type2:output": "43000",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50000"
+  }
+},
+{
+  "type": "node",
+  "id": 5854494327,
+  "lat": 55.9397483,
+  "lon": 23.3256501,
+  "tags": {
+    "amenity": "charging_station",
+    "charging_station:output": "50 kW",
+    "socket:chademo": "yes",
+    "socket:type2": "yes",
+    "socket:type2_combo": "yes",
+    "source": "http://elektrodegalines.lt/ikrovimo-vietos-0/siauliai/ikrovimo-stotele-siauliuose-lidl-50kw.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6415815404,
+  "lat": 56.6254474,
+  "lon": 23.2862682,
+  "tags": {
+    "addr:city": "Dobele",
+    "addr:country": "LV",
+    "addr:district": "Dobeles novads",
+    "addr:housenumber": "2",
+    "addr:postcode": "LV-3701",
+    "addr:street": "Jāņa Čakstes iela",
+    "amenity": "charging_station",
+    "authentication:app": "yes",
+    "authentication:membership_card": "yes",
+    "authentication:short_message": "yes",
+    "capacity": "2",
+    "car": "yes",
+    "fee": "yes",
+    "name": "e-mobi",
+    "network": "E-mobi",
+    "opening_hours": "24/7",
+    "operator": "CSDD",
+    "parking:fee": "no",
+    "ref:LV:addr": "103426841",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 6858230036,
+  "lat": 54.7032668,
+  "lon": 25.2229900,
+  "tags": {
+    "access": "customers",
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "covered": "no",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW",
+    "website": "https://ignitison.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 6881432756,
+  "lat": 54.7095254,
+  "lon": 25.2268557,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "covered": "no",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW",
+    "website": "https://ignitison.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 6898296083,
+  "lat": 54.7022305,
+  "lon": 25.2139177,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "covered": "no",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 6911604450,
+  "lat": 54.7086056,
+  "lon": 25.3145453,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "operator:wikidata": "Q583822",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 6944389835,
+  "lat": 54.6900368,
+  "lon": 25.2638003,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "covered": "no",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 6944398028,
+  "lat": 54.6739922,
+  "lon": 25.2855506,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "covered": "no",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 6944401306,
+  "lat": 54.7169842,
+  "lon": 25.2230818,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "covered": "no",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 7003973493,
+  "lat": 54.6785189,
+  "lon": 25.2931565,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "1",
+    "addr:street": "Onos Šimaitės g.",
+    "amenity": "charging_station",
+    "authentication:membership_card": "yes",
+    "capacity": "3",
+    "fee": "yes",
+    "operator": "Ignitis ON",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type1_combo": "1",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 7084525150,
+  "lat": 54.6850244,
+  "lon": 25.2933128,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "3",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 7114363092,
+  "lat": 54.6429758,
+  "lon": 25.2747479,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 7130886338,
+  "lat": 54.6712377,
+  "lon": 25.2376838,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 7444118552,
+  "lat": 54.6069980,
+  "lon": 24.0270956,
+  "tags": {
+    "amenity": "charging_station",
+    "charging_station:output": "50 kW",
+    "fee": "no",
+    "operator": "Elinta Charge"
+  }
+},
+{
+  "type": "node",
+  "id": 7444118554,
+  "lat": 54.6035049,
+  "lon": 24.0223654,
+  "tags": {
+    "amenity": "charging_station",
+    "charging_station:output": "50 kW",
+    "fee": "no",
+    "operator": "Elinta Charge"
+  }
+},
+{
+  "type": "node",
+  "id": 7558653685,
+  "lat": 54.6695029,
+  "lon": 25.0959532,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:membership_card": "yes",
+    "brand": "Ignitis ON",
+    "capacity": "3",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "operator:wikidata": "Q583822",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 7605082350,
+  "lat": 54.9342173,
+  "lon": 23.9656865,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 7670661263,
+  "lat": 56.8772776,
+  "lon": 24.1189180,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Baloži",
+    "addr:country": "LV",
+    "addr:district": "Ķekavas novads",
+    "addr:housenumber": "4",
+    "addr:postcode": "LV-2112",
+    "addr:street": "Skolas iela",
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charge": "0.15 EUR/minute",
+    "charging_station:output": "50 kW",
+    "fee": "yes",
+    "payment:app": "yes",
+    "payment:sms": "yes",
+    "ref:LV:addr": "102108646",
+    "socket:chademo": "1",
+    "socket:type2": "1",
+    "socket:type2_combo": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 7931268946,
+  "lat": 54.6798400,
+  "lon": 25.2583991,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "name": "Helios City",
+    "operator": "UAB Ignitis",
+    "operator:wikidata": "Q583822",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW",
+    "socket:type3": "3",
+    "website": "https://ignitison.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 7931308938,
+  "lat": 54.6920912,
+  "lon": 25.2459285,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "name": "Ignitis",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW",
+    "socket:type3": "3",
+    "website": "https://ignitison.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 8527992962,
+  "lat": 54.6692462,
+  "lon": 25.2101773,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "ChargePoint",
+    "brand:wikidata": "Q5176149",
+    "brand:wikipedia": "en:ChargePoint",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 8527994429,
+  "lat": 54.6742361,
+  "lon": 25.2014401,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "ChargePoint",
+    "brand:wikidata": "Q5176149",
+    "brand:wikipedia": "en:ChargePoint",
+    "capacity": "3",
+    "fee": "yes",
+    "name": "Ignitis Charging station",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 8718328826,
+  "lat": 54.7247567,
+  "lon": 25.3419164,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "name": "Ignitis ON",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 8829222628,
+  "lat": 54.6778762,
+  "lon": 25.2255726,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "motorcar": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 8979537933,
+  "lat": 54.8894006,
+  "lon": 23.9195266,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "fee": "no",
+    "operator": "Elinta",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50",
+    "socket:type2": "1",
+    "socket:type2:output": "22",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 9105365518,
+  "lat": 59.2198695,
+  "lon": 23.6967192,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "Enefit Volt",
+    "ref": "CH10192",
+    "socket:chademo": "1",
+    "socket:chademo:current": "120",
+    "socket:chademo:output": "60 kW",
+    "socket:chademo:voltage": "500",
+    "socket:type2": "1",
+    "socket:type2:current": "32",
+    "socket:type2:output": "12.8 kW",
+    "socket:type2:voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 9190242539,
+  "lat": 54.9421600,
+  "lon": 24.0064593,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Tesla Supercharger",
+    "brand:wikidata": "Q17089620",
+    "capacity": "8",
+    "fee": "yes",
+    "name": "Kaunas Supercharger",
+    "opening_hours": "24/7",
+    "operator": "Tesla, Inc.",
+    "socket:tesla_supercharger_ccs": "8",
+    "socket:tesla_supercharger_ccs:output": "250 kW",
+    "website": "https://www.tesla.com/findus/location/supercharger/kaunassupercharger"
+  }
+},
+{
+  "type": "node",
+  "id": 9423697545,
+  "lat": 54.6956794,
+  "lon": 25.2577634,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "operator:wikidata": "Q583822",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW",
+    "website": "https://ignitison.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 9672753519,
+  "lat": 58.9398159,
+  "lon": 23.5426929,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Volt",
+    "capacity": "2",
+    "fee": "yes",
+    "name": "Enefit Volt",
+    "opening_hours": "24/7",
+    "operator": "Eesti Energia AS",
+    "operator:wikidata": "Q1295560",
+    "payment:account_cards": "yes",
+    "payment:app": "yes",
+    "payment:contactless": "yes",
+    "ref": "CH10079",
+    "ref:old": "57234",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW",
+    "website": "https://enefitvolt.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616418,
+  "lat": 54.6990303,
+  "lon": 25.2594322,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "3",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "operator:wikidata": "Q583822",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616419,
+  "lat": 54.6980730,
+  "lon": 25.2653015,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "1",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616420,
+  "lat": 54.6980738,
+  "lon": 25.2696425,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616421,
+  "lat": 54.6937985,
+  "lon": 25.2750988,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "1",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616422,
+  "lat": 54.6832935,
+  "lon": 25.2798688,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616423,
+  "lat": 54.6785039,
+  "lon": 25.2856969,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "320 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616424,
+  "lat": 54.6810546,
+  "lon": 25.2986294,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616425,
+  "lat": 54.6862556,
+  "lon": 25.2592851,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "operator:wikidata": "Q583822",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616426,
+  "lat": 54.6822871,
+  "lon": 25.2689385,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616427,
+  "lat": 54.6762749,
+  "lon": 25.2840957,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616428,
+  "lat": 54.6707297,
+  "lon": 25.2597228,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "3",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616429,
+  "lat": 54.6732986,
+  "lon": 25.2480644,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "operator:wikidata": "Q583822",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616430,
+  "lat": 54.6984660,
+  "lon": 25.2470225,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616432,
+  "lat": 54.6991882,
+  "lon": 25.2865324,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616433,
+  "lat": 54.6976908,
+  "lon": 25.2999538,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616434,
+  "lat": 54.6990695,
+  "lon": 25.3085414,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "3",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616436,
+  "lat": 54.6920910,
+  "lon": 25.2156705,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "3",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616437,
+  "lat": 54.6853409,
+  "lon": 25.2056415,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616438,
+  "lat": 54.6617167,
+  "lon": 25.2729082,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616439,
+  "lat": 54.6518776,
+  "lon": 25.2820176,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB „Ignitis“",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616440,
+  "lat": 54.6438962,
+  "lon": 25.2001700,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616441,
+  "lat": 54.6623362,
+  "lon": 25.3427966,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616442,
+  "lat": 54.6926412,
+  "lon": 25.4096460,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616446,
+  "lat": 54.7073029,
+  "lon": 25.1751989,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "3",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616448,
+  "lat": 54.7114427,
+  "lon": 25.3042567,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616449,
+  "lat": 54.7040474,
+  "lon": 25.2764362,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "3",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616450,
+  "lat": 54.7170083,
+  "lon": 25.2822046,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "3",
+    "fee": "yes",
+    "not:operator:wikidata": "Q583822",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616451,
+  "lat": 54.7190517,
+  "lon": 25.2990353,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616452,
+  "lat": 54.7167898,
+  "lon": 25.2450921,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "3",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616453,
+  "lat": 54.7295051,
+  "lon": 25.2707189,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616454,
+  "lat": 54.7308373,
+  "lon": 25.2470032,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616455,
+  "lat": 54.7272964,
+  "lon": 25.2335390,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616456,
+  "lat": 54.7348195,
+  "lon": 25.2211493,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616457,
+  "lat": 54.7344715,
+  "lon": 25.3381794,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "33",
+    "addr:postcode": "10104",
+    "addr:street": "Nemenčinės pl.",
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "Ignitis ON",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW",
+    "website": "https://ignitison.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616458,
+  "lat": 54.7402750,
+  "lon": 25.2755854,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "operator:wikidata": "Q583822",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616459,
+  "lat": 54.7530236,
+  "lon": 25.2842560,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616460,
+  "lat": 54.7736085,
+  "lon": 25.2724129,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 9862616461,
+  "lat": 54.7767971,
+  "lon": 25.3364705,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "fee": "yes",
+    "operator": "UAB Ignitis",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "43 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 10068034027,
+  "lat": 59.3540728,
+  "lon": 24.6290195,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "4",
+    "charging_station:output": "50-150 kW",
+    "name": "Enefit Volt"
+  }
+},
+{
+  "type": "node",
+  "id": 10079943850,
+  "lat": 59.3513774,
+  "lon": 27.4193231,
+  "tags": {
+    "amenity": "charging_station",
+    "covered": "no",
+    "fee": "yes",
+    "name": "Terminal Oil",
+    "opening_hours": "24/7",
+    "parking:fee": "no",
+    "socket:type2": "1",
+    "socket:type2:output": "22kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "150kW",
+    "website": "https://terminaloil.ee/petrol-station/johvi/"
+  }
+},
+{
+  "type": "node",
+  "id": 10118429507,
+  "lat": 56.9243023,
+  "lon": 24.1768207,
+  "tags": {
+    "access": "customers",
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "257",
+    "addr:postcode": "LV-1019",
+    "addr:street": "Latgales iela",
+    "amenity": "charging_station",
+    "brand": "Tesla Supercharger",
+    "brand:wikidata": "Q17089620",
+    "capacity": "4",
+    "name": "Riga Supercharger",
+    "not:brand:wikidata": "Q478214",
+    "operator": "Tesla, Inc.",
+    "operator:wikidata": "Q478214",
+    "ref:LV:addr": "101942401",
+    "short_name": "Tesla",
+    "socket:tesla_supercharger_ccs": "4",
+    "socket:tesla_supercharger_ccs:output": "250",
+    "website": "https://www.tesla.com/findus/location/supercharger/rigassupercharger"
+  }
+},
+{
+  "type": "node",
+  "id": 10695330166,
+  "lat": 58.7053975,
+  "lon": 22.5958992,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Volt",
+    "capacity": "2",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "Enefit Volt",
+    "payment:account_cards": "yes",
+    "payment:app": "yes",
+    "payment:contactless": "yes",
+    "ref": "CH10015",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50kW",
+    "socket:type1_combo": "1",
+    "socket:type1_combo:output": "50kW",
+    "website": "https://enefitvolt.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10862212111,
+  "lat": 58.9940315,
+  "lon": 24.0568753,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Enefit Volt",
+    "capacity": "2",
+    "covered": "no",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "panoramax": "73548440-30e4-48d7-8171-ead2f389e81e",
+    "ref": "57265",
+    "socket:ccs": "1",
+    "socket:ccs:output": "50kW",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50kW"
+  }
+},
+{
+  "type": "node",
+  "id": 10925476613,
+  "lat": 54.9287950,
+  "lon": 23.9718757,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "description": "Savanorių 441, Kaunas",
+    "name": "Ignitis ON Hesburger Murava",
+    "ref": "130",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "150 kW",
+    "website": "https://ignitison.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 10927710629,
+  "lat": 54.9334364,
+  "lon": 23.9647353,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "5",
+    "description": "Islandijos pl. 63, Kaunas",
+    "name": "Ignitis ON Hesburger Islandijos pl.",
+    "ref": "121;122",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "2",
+    "socket:type2:output": "11 kW",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150 kW",
+    "website": "https://ignitison.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 11209952257,
+  "lat": 54.6241652,
+  "lon": 25.1108735,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "capacity": "2",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "Ignitis ON",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "2",
+    "socket:type2:output": "11 kW",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 11223301748,
+  "lat": 54.7305955,
+  "lon": 25.3322834,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "15",
+    "addr:postcode": "15173",
+    "addr:street": "Nemenčinės pl.",
+    "amenity": "charging_station",
+    "capacity": "2",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "Lidl",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "22 kW",
+    "website": "https://www.lidl.lt/c/e-mobilumas/s10024740"
+  }
+},
+{
+  "type": "node",
+  "id": 11476574568,
+  "lat": 54.5590246,
+  "lon": 23.3491102,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Elinta Charge",
+    "capacity": "2",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "20 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 11476628062,
+  "lat": 54.5535174,
+  "lon": 23.3463958,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Elinta Charge",
+    "capacity": "2",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "20 kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "50 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 11647242903,
+  "lat": 54.3645119,
+  "lon": 24.8367723,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Eleport",
+    "capacity": "3",
+    "charging_station:output": "300 kW",
+    "name": "Eleport Valkininkai",
+    "socket:type2_combo": "3",
+    "socket:type2_combo:output": "150 kW",
+    "website": "https://eleport.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11673339313,
+  "lat": 54.6587942,
+  "lon": 25.1574532,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "capacity": "2",
+    "charging_station:output": "50 kW",
+    "fee": "yes",
+    "operator": "Elektrum",
+    "payment:app": "yes",
+    "socket:chademo": "1",
+    "socket:type2": "1",
+    "socket:type2_combo": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 12022912899,
+  "lat": 58.3761399,
+  "lon": 26.6978726,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Eleport",
+    "capacity": "4",
+    "fee": "yes",
+    "socket:chademo": "1",
+    "socket:chademo:output": "51 kW",
+    "socket:type2": "1",
+    "socket:type2:output": "22 kW",
+    "socket:type2_cable": "1",
+    "socket:type2_cable:output": "22 kW",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "150 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12082957930,
+  "lat": 54.6585093,
+  "lon": 25.1561313,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "capacity": "4",
+    "charging_station:output": "100 kW",
+    "fee": "yes",
+    "operator": "Vilniaus apšvietimas",
+    "payment:app": "yes",
+    "socket:type2_combo": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 12923025690,
+  "lat": 54.2551628,
+  "lon": 24.5417270,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "10",
+    "fee": "yes",
+    "fixme": "Nėr ortofoto",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "operator": "Eldrive",
+    "socket:chademo": "1",
+    "socket:chademo:output": "100 kW",
+    "socket:type2_combo": "10",
+    "socket:type2_combo:output": "400 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12956408219,
+  "lat": 58.3876963,
+  "lon": 24.5011423,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Tesla Supercharger",
+    "brand:wikidata": "Q17089620",
+    "capacity": "8",
+    "fee": "yes",
+    "name": "Pärnu Supercharger",
+    "operator": "Tesla",
+    "operator:wikidata": "Q478214",
+    "socket:tesla_supercharger_ccs": "8",
+    "socket:tesla_supercharger_ccs:output": "250 kW",
+    "website": "https://www.tesla.com/en_eu/findus?bounds=58.3887529036992%2C24.50537540256378%2C58.386458419612076%2C24.496792333716122&location=33144"
+  }
+},
+{
+  "type": "way",
+  "id": 1206866016,
+  "nodes": [
+    11183180144,
+    11183180143,
+    11183180142,
+    11183180141,
+    11183180144
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "bicycle": "no",
+    "brand": "ignitis on",
+    "bus": "no",
+    "capacity": "4",
+    "fee": "yes",
+    "hgv": "no",
+    "motorcar": "yes",
+    "name": "Maxima Rūdės g.",
+    "opening_hours": "24/7",
+    "panoramax": "5d9237fb-5735-4daa-84e0-963772b22774",
+    "scooter": "no",
+    "socket:chademo": "1",
+    "socket:chademo:output": "50kW",
+    "socket:type2": "2",
+    "socket:type2:output": "11kW",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "150kW"
+  }
+},
+{
+  "type": "way",
+  "id": 1394475424,
+  "nodes": [
+    12908894519,
+    12908894520,
+    12908894521,
+    12908894522,
+    12908894519
+  ],
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Ignitis ON",
+    "name": "Stokker Vilnius",
+    "operator": "Ignitis",
+    "operator:wikidata": "Q583822",
+    "socket:type2_combo": "4",
+    "socket:type2_combo:output": "150"
+  }
+},
+{
+  "type": "node",
+  "id": 11183180141,
+  "lat": 55.9275437,
+  "lon": 23.3173807
+},
+{
+  "type": "node",
+  "id": 11183180142,
+  "lat": 55.9275177,
+  "lon": 23.3174770
+},
+{
+  "type": "node",
+  "id": 11183180143,
+  "lat": 55.9276119,
+  "lon": 23.3175474
+},
+{
+  "type": "node",
+  "id": 11183180144,
+  "lat": 55.9276356,
+  "lon": 23.3174541
+},
+{
+  "type": "node",
+  "id": 12908894519,
+  "lat": 54.6622183,
+  "lon": 25.2343318
+},
+{
+  "type": "node",
+  "id": 12908894520,
+  "lat": 54.6621790,
+  "lon": 25.2343112
+},
+{
+  "type": "node",
+  "id": 12908894521,
+  "lat": 54.6621723,
+  "lon": 25.2343496
+},
+{
+  "type": "node",
+  "id": 12908894522,
+  "lat": 54.6622116,
+  "lon": 25.2343702
+}
+
+  ]
+}
