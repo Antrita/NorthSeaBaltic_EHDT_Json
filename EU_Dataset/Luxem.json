@@ -1,0 +1,75 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-07-10T05:19:45Z",
+    "timestamp_areas_base": "2025-07-09T01:47:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3815442164,
+  "lat": 49.6408784,
+  "lon": 6.2707340,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "Tesla Supercharger",
+    "brand:wikidata": "Q17089620",
+    "capacity": "4",
+    "fee": "yes",
+    "motorcar": "yes",
+    "name": "Mënsbech Supercharger",
+    "opening_hours": "24/7",
+    "operator": "Tesla, Inc.",
+    "socket:tesla_supercharger": "4",
+    "socket:tesla_supercharger:output": "150 kW",
+    "socket:tesla_supercharger_ccs": "4",
+    "socket:tesla_supercharger_ccs:output": "150 kW",
+    "truck": "no",
+    "website": "https://www.tesla.com/findus/location/supercharger/mensbechsupercharger"
+  }
+},
+{
+  "type": "node",
+  "id": 7881012194,
+  "lat": 50.1818421,
+  "lon": 6.0235701,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "2",
+    "motorcar": "yes",
+    "socket:chademo": "2",
+    "socket:chademo:output": "50kW",
+    "socket:type2": "2",
+    "socket:type2:output": "43kW",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "50kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12880824565,
+  "lat": 49.5822474,
+  "lon": 6.1261605,
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "Tesla Supercharger",
+    "brand:wikidata": "Q17089620",
+    "capacity": "16",
+    "fee": "yes",
+    "motorcar": "yes",
+    "name": "Luxembourg Urban Supercharger",
+    "opening_hours": "24/7",
+    "operator": "Tesla",
+    "operator:wikidata": "Q478214",
+    "socket:tesla_supercharger_ccs": "16",
+    "socket:tesla_supercharger_ccs:output": "250 kW",
+    "website": "https://www.tesla.com/en_eu/findus?location=LuxembourgUrbanq222"
+  }
+}
+
+  ]
+}
